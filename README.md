@@ -31,3 +31,4 @@ Operating systems, digital logic and computer architecture, build systems, netwo
 ---
 
 Open to collaborating on open-source, Linux tooling, and Java or Python projects. Feel free to open an issue or start a discussion on any of my repositories.
+To contact me directly, email at nitroghast_github_contact@proton.me
